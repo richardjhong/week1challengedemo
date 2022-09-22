@@ -1,4 +1,4 @@
-# HTML, CSS, and Git: Semantic Code Refactoring
+# CSS Demo: Semantic Refactoring
 
 # Purpose 
 The purpose of this challenge is to get familiar with HTML, CSS, and Git. In the process, code refactoring is done on both the HTML and CSS files to clearly
