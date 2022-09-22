@@ -15,17 +15,17 @@ introduce semantic as well as give a more clear skeleton of the architecture of 
 
 3. Image 
 4. Main section
-  A. Reasons section
-  - Visually on the left portion of the top of the main content section, there are three cards each detailing more about the reasons to consider the fictional Horiseon services:
-    i. Search Engine Optimization card (text and image)
-    ii. Online Reputation Management card (text and image)
-    iii. Social Media Marketing card (text and image)
+  - Reasons section
+    - Visually on the left portion of the top of the main content section, there are three cards each detailing more about the reasons to consider the fictional Horiseon services:
+      - Search Engine Optimization card (text and image)
+      - Online Reputation Management card (text and image)
+      - Social Media Marketing card (text and image)
 
-  B. Benefits section
-  - Visually on the right portion of the top of the main content section, there are three benefits stacked vertically on top of each other:
-    i. Lead Generation benefit (image and text)
-    ii. Brand Awareness benefit (image and text)
-    iii. Cost Management benefit (image and text)
+  - Benefits section
+    - Visually on the right portion of the top of the main content section, there are three benefits stacked vertically on top of each other:
+      - Lead Generation benefit (image and text)
+      - Brand Awareness benefit (image and text)
+      - Cost Management benefit (image and text)
 5. Footer section
   
 # Takeaway
