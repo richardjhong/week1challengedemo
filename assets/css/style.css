@@ -1,3 +1,6 @@
+/*
+Universally applied CSS rules and background color for all of body
+*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,17 +11,17 @@ body {
     background-color: #d9dcd6;
 }
 
-/*  header section including h1 header, nav bar, and 
-    list items within nav
+/*  
+header section including header, header-title, nav bar, and list items within nav
 */
-header{
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-header .header-title{
+header .header-title {
     display: inline-block;
     font-size: 48px;
 }
@@ -53,6 +56,9 @@ p {
     font-size: 16px;
 }
 
+/*
+image below header
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +68,37 @@ p {
     background-position: center;
 }
 
+
+/* 
+ Reasons section within main content
+*/
+.reasons {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content-card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-card img {
+    max-height: 200px;
+}
+
+.content-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*
+float-left and float-right were made with id CSS selectors as they only affect the images within individual content-card divs
+*/
 #float-left {
     float: left;
     margin-right: 25px;
@@ -72,11 +109,9 @@ p {
     margin-left: 25px;
 }
 
-.reasons {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/*
+ Benefits section within main content
+*/
 
 .benefits {
     margin-right: 20px;
@@ -105,23 +140,9 @@ p {
     max-width: 150px;
 }
 
-.content-card {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-card img {
-    max-height: 200px;
-}
-
-.content-card h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*
+Footer section
+*/
 
 footer {
     padding: 30px;
