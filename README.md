@@ -12,7 +12,6 @@ introduce semantic as well as give a more clear skeleton of the architecture of 
       - Search Engine Optimization
       - Online Reputation Management
       - Social Media Marketing 
-
 3. Image 
 4. Main section
   - Reasons section
@@ -20,7 +19,6 @@ introduce semantic as well as give a more clear skeleton of the architecture of 
       - Search Engine Optimization card (text and image)
       - Online Reputation Management card (text and image)
       - Social Media Marketing card (text and image)
-
   - Benefits section
     - Visually on the right portion of the top of the main content section, there are three benefits stacked vertically on top of each other:
       - Lead Generation benefit (image and text)
